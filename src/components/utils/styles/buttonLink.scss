@@ -1,0 +1,22 @@
+@import './../../../styles/globales.scss';
+
+$main-color:  #d68e08;
+$second-color: rgb(255, 255, 255);
+$third-color: #000;
+$font : 'Poppins', sans-serif;
+
+.button-filter{
+	text-decoration: none;
+	display: inline-block;
+	color: $second-color;
+	background-color: $main-color	;
+	border-radius: 2rem;
+	padding: 0.5rem 1.2rem;
+	cursor: pointer;
+	&:hover {
+		font-weight: bold;
+		color: $third-color;
+	
+}
+}
+

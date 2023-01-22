@@ -1,0 +1,50 @@
+@import "./../../styles/globales.scss";
+@import "./../../styles/brakpoints.scss";
+
+
+.iconos {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.iconos-caja {
+  width: 80%;
+  border: 1px solid $second-color;
+  padding: 3%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 2% 0;
+  @include media(tablet) {
+    width: 40%;
+    height: 30vh;
+  }
+  @include media(desktop-lg) {
+    width: 30%;
+    padding: 1%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+}
+
+.iconos-caja_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2%;
+
+  span {
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  .icon {
+    color: $main-color;
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "global.title.singular": "mi",
+  "global.title.plural": "mis",
+
+  "menu.home": "Inicio",
+  "menu.about": "Acerca de Mi",
+  "menu.services": "Servicios",
+  "menu.portafolio": "Portafolio",
+  "menu.notes": "Notas",
+  "menu.network": "Contactame",
+
+  "main-greting": "Hola , Soy ",
+  "main-profession": " ",
+  "main-description": " Como diseñadora web, creo y optimizo con éxito sitios web interactivos y de manera responsiva con el fin de ejecutar los proyectos asignados. Busco enfrentar nuevos desafíos y perseguir mi pasión como desarrolladora front-end",
+  "main-button": "ver proyectos",
+
+  "about-name": "Hola, mi nombre es ",
+  "about-country": " Soy un desarrolladora web Paraguaya ",
+  "about-experince": "He trabajado con diferentes empresas en el desarrollo de sus sitios web, plataformas corporativas y aplicaciones móviles, con  participación en el proceso de diseño  y la experiencia del usuario, principalmente enfocado en el desarrollo front-end para productos digitales, me apasiona la tecnología, los retos y nunca parar de aparecer.",
+  "about-invited": "Si tienes una oferta de trabajo, una propuesta de proyecto o simplemente quieres saludarme, ponte en contacto conmigo.",
+  "about-download": "Descargar CV",
+
+
+	"portafolio-title": "portafolio",
+	"portafolio-all-filter": "Todos",
+	"portafolio-web-filter": "Web",
+	"portafolio-mobile-filter": "Mobile",
+	"portafolio-practice-filter": "Practica",
+	
+  "skills-title":"Conocimiento técnico",
+  		
+	"social-media-title-white": "sociales",
+	"social-media-title-green": "redes",
+  "social-media-description":"Puede ponerse en contacto conmigo  a travez del formulario o por medio de  las redes  mencionados a continuación. Trataré de responderte lo más rápido que pueda.",
+  "social-media-form-name":"tu nombre",
+  "social-media-form-email":"tu email",
+  "social-media-form-message":"mensaje",
+  "social-media-form-send":"enviar mensaje",
+	
+	"gretings":"Realizado ♥ por ©CieloRodriguez",
+  "cv":"https://drive.google.com/file/d/1v1NxklgNfy4Jv4LeP-rWRmw2YR0daCmH/view?usp=share_link"
+}
